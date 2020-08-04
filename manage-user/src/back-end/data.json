@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Anh Thi",
+    "phone": "0983627384",
+    "role": 1
+  },
+  {
+    "id": 2,
+    "name": "Mỹ Diễm",
+    "phone": "0837483848",
+    "role": 1
+  },
+  {
+    "id": 3,
+    "name": "Đình Dũng",
+    "phone": "0293829438",
+    "role": 1
+  },
+  {
+    "id": 4,
+    "name": "Thanh Đạo",
+    "phone": "0483737483",
+    "role": 1
+  },
+  {
+    "id": 5,
+    "name": "Thảo Diệu",
+    "phone": "0683746387",
+    "role": 1
+  }
+]
